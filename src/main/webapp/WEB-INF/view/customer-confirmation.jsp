@@ -12,5 +12,9 @@
 <br>
 Free passes : ${customer.freepases}
 
+<br>
+<br>
+Postal Code: ${customer.postalCode}
+
 </body>
 </html>
